@@ -22,7 +22,7 @@
   ],
   "config": {
     "nrf51822": {
-      "ram_size": "16K"
+      "ram_size": "32K"
     },
     "image": {
       "heap": {
