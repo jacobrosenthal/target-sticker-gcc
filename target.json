@@ -21,6 +21,10 @@
     "nrf51dk"
   ],
   "config": {
+    "uicr": {
+      "device_type": 2,
+      "device_version": 12
+    },
     "nrf51822": {
       "ram_size": "16K"
     },
