@@ -2,7 +2,7 @@
   "name": "sticker-gcc",
   "version": "0.0.5",
   "inherits": {
-    "nordic-nrf51822-gcc-unofficial-fota": "^1.0.0"
+    "nordic-nrf51822-gcc-unofficial-fota-custom": "^1.0.0"
   },
   "description": "Target Description using GCC to compile for nrf 16KB device.",
   "homepage": "https://github.com/jacobrosenthal/target-sticker-gcc",
